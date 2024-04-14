@@ -1,0 +1,108 @@
+.stay1 {
+  color: var(--color-brand-white);
+}
+.stay-connected1 {
+  margin: 0;
+}
+.ease1 {
+  color: var(--color-goldenrod);
+}
+.with-ease1 {
+  margin: 0;
+  color: var(--color-brand-white);
+}
+.lorem-ipsum-dolor11,
+.medium-length-hero-container1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.lorem-ipsum-dolor11 {
+  font-size: var(--text-medium-bold-size);
+  line-height: 150%;
+  color: var(--color-brand-white);
+}
+.content30 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.button14 {
+  position: relative;
+  font-size: var(--text-regular-link-size);
+  line-height: 150%;
+  font-family: var(--text-medium-bold);
+  color: var(--color-brand-white);
+  text-align: left;
+}
+.styleprimary-smallfalse-da1,
+.stylesecondary-smallfalse6 {
+  cursor: pointer;
+  border: 1px solid var(--dd);
+  padding: var(--padding-xs) var(--padding-5xl);
+  border-radius: var(--br-xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.styleprimary-smallfalse-da1 {
+  background-color: var(--dd);
+  justify-content: flex-start;
+}
+.stylesecondary-smallfalse6 {
+  background-color: transparent;
+  justify-content: center;
+}
+.actions6,
+.column5 {
+  display: flex;
+  justify-content: flex-start;
+}
+.actions6 {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 21px 293px 0 0;
+  gap: var(--gap-4xl);
+}
+.column5 {
+  width: 560px;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-5xl);
+}
+.card1,
+.header-88 {
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.card1 {
+  text-decoration: none;
+  align-self: stretch;
+  height: 640px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-45xl);
+  background-image: url(./public/card1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  color: inherit;
+}
+.header-88 {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(180deg, #fff, rgba(255, 255, 255, 0));
+  overflow: hidden;
+  display: none;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-61xl) var(--padding-45xl);
+  text-align: left;
+  font-size: var(--heading-h1-size);
+  color: var(--color-goldenrod);
+  font-family: var(--text-medium-bold);
+}
